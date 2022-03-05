@@ -64,8 +64,11 @@ img{
   background-color: rgb(218, 235, 159);
   float: left;
   flex-direction: column;
-  position: absolute;
-  
+  display: flex;
+  }
+  .row{
+    float: left;
+
   }
   
   

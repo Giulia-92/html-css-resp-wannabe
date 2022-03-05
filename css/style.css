@@ -60,11 +60,15 @@ img{
   clear:both;
 }
 @media screen and (max-width:420px) {
-  .container.grey{
+ .container.grey{
   background-color: rgb(218, 235, 159);
+  float: left;
   flex-direction: column;
-
-}
+  position: absolute;
+  
+  }
+  
+  
 }
 
 
